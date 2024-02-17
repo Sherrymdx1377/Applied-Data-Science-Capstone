@@ -1,0 +1,8 @@
+Flask==2.2.3  
+Flask-JSON==0.3.5
+dash
+dash-core-components
+dash-html-components
+dash-renderer
+plotly
+pandas==3.0.0
